@@ -17,4 +17,4 @@ Simply run the main script:
 
 Note: On the very first run, deepface will download its pre-trained model weights (a few MBs) to your system. After that, it runs fully offline.
 
-*Press q to quit the webcam window.
+Press q to quit the webcam window.
