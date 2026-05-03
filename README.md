@@ -12,8 +12,9 @@ A simple, real-time facial emotion recognition (FER) script. It grabs the live f
 * OpenCV 
 * DeepFace
 ## Usage
-* Simply run the main script:
+Simply run the main script:
 * python main.py
 
 Note: On the very first run, deepface will download its pre-trained model weights (a few MBs) to your system. After that, it runs fully offline.
-Press q to quit the webcam window.
+
+*Press q to quit the webcam window.
