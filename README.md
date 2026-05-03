@@ -11,7 +11,7 @@ A simple, real-time facial emotion recognition (FER) script. It grabs the live f
 * Python
 * OpenCV 
 * DeepFace
-##Usage
+## Usage
 * Simply run the main script:
 * python main.py
 
